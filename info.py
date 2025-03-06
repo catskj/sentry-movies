@@ -32,14 +32,14 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 #---------------------------------------------------------------
 #----------- There will be channel id add in all these ---------
 LOG_API_CHANNEL = int(environ.get('LOG_API_CHANNEL', '0'))  
-BIN_CHANNEL = int(environ.get('BIN_CHANNEL','0'))
-DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','0'))
+BIN_CHANNEL = int(environ.get('BIN_CHANNEL','-1002370440811'))
+DELETE_CHANNELS = int(environ.get('DELETE_CHANNELS','-1002340398350'))
 LOG_VR_CHANNEL = int(environ.get('LOG_VR_CHANNEL', '0'))
-auth_channel = environ.get('AUTH_CHANNEL', '')
-SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '0'))
+auth_channel = environ.get('AUTH_CHANNEL', '-1002337168965')
+SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1004618461915'))
 request_channel = environ.get('REQUEST_CHANNEL', '0')
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '0'))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link ( make sure bot is admin )
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/Movie_Groupssssss') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', False)
@@ -68,11 +68,11 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', '')).split()
-FORCESUB_IMG = environ.get('FORCESUB_IMG', '')
-REFER_PICS = (environ.get("REFER_PICS", "")).split() 
-PAYPICS = (environ.get('PAYPICS', '')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', ''))
+START_IMG = (environ.get('START_IMG', 'https://envs.sh/wKT.jpg')).split()
+FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://envs.sh/wKT.jpg')
+REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/wKT.jpg")).split() 
+PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/wKT.jpg')).split()
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/wKT.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "🤡", "💯", "🤔", "😏"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
