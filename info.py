@@ -72,7 +72,7 @@ START_IMG = (environ.get('START_IMG', 'https://i.imghippo.com/files/qdAP2431oj.j
 FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.imghippo.com/files/qdAP2431oj.jpg')
 REFER_PICS = (environ.get("REFER_PICS", "https://i.imghippo.com/files/qdAP2431oj.jpg")).split() 
 PAYPICS = (environ.get('PAYPICS', 'https://i.imghippo.com/files/qdAP2431oj.jpg')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/wKT.jpg'))
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://i.imghippo.com/files/r7332jQM.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "🤡", "💯", "🤔", "😏"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
