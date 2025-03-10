@@ -686,7 +686,7 @@ async def advantage_spoll_choker(bot, query):
         return await query.answer(script.ALRT_TXT, show_alert=True)
     movie = await get_poster(id, id=True)
     search = movie.get('title')
-    await query.answer('bhai sahab hamare pass nahin Hai')
+    await query.answer('𝐓𝐇𝐈𝐒 𝐅𝐈𝐋𝐄 𝐇𝐀𝐒 𝐍𝐎𝐓 𝐀𝐃𝐃𝐄𝐃 𝐓𝐎 𝐌𝐘 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄!!')
     files, offset, total_results = await get_search_results(search)
     if files:
         k = (search, files, offset, total_results)
