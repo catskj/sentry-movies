@@ -261,7 +261,7 @@ User - {}"""
 
 1 Month 80 Rupees
 
- <code> paste here your upi id </code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
+ <code> 𝐎𝐍𝐋𝐘 𝐑𝐄𝐃𝐄𝐄𝐌 𝐂𝐎𝐃𝐄 </code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
 ⛽️ ᴄʜᴇᴄᴋ ʏᴏᴜʀ ᴀᴄᴛɪᴠᴇ ᴘʟᴀɴ: /myplan
 
