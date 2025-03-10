@@ -68,12 +68,12 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://i.imghippo.com/files/qdAP2431oj.jpg')).split()
-FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.imghippo.com/files/qdAP2431oj.jpg')
-REFER_PICS = (environ.get("REFER_PICS", "https://i.imghippo.com/files/qdAP2431oj.jpg")).split() 
-PAYPICS = (environ.get('PAYPICS', 'https://i.imghippo.com/files/qdAP2431oj.jpg')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://i.imghippo.com/files/r7332jQM.jpg'))
-REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "🤡", "💯", "🤔", "😏"]
+START_IMG = (environ.get('START_IMG', 'https://envs.sh/Sg2.jpg')).split()
+FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://envs.sh/SgF.jpg')
+REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/SgF.jpg")).split() 
+PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/SgF.jpg')).split()
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/Sgu.jpg'))
+REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "💯", "🤔", "😏"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
