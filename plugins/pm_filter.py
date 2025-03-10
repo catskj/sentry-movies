@@ -136,7 +136,7 @@ async def refercall(bot, query):
     reply_markup = InlineKeyboardMarkup(btn)
     await bot.send_photo(
         chat_id=query.message.chat.id,
-        photo="https://graph.org/file/1a2e64aee3d4d10edd930.jpg",
+        photo="https://envs.sh/SgF.jpg",
         caption=f'Hay Your refer link:\n\nhttps://t.me/{bot.me.username}?start=reff_{query.from_user.id}\n\nShare this link with your friends, Each time they join, you will get 10 referral points and after 100 points you will get 1 month premium subscription.',
         reply_markup=reply_markup,
         parse_mode=enums.ParseMode.HTML
@@ -835,7 +835,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('• 𝗖𝗹𝗼𝘀𝗲 •', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(btn)
-        m=await query.message.reply_sticker("CAACAgQAAxkBAAEiLZ9l7VMuTY7QHn4edR6ouHUosQQ9gwACFxIAArzT-FOmYU0gLeJu7x4E") 
+        m=await query.message.reply_sticker("CAACAgUAAxkBAAEBJCNnznGQmb6WXWhsoAABb6zx4VII_c0AAggOAAJLcjBVGsdsUTPkf3U2BA") 
         await m.delete()
         await query.message.reply_photo(
             photo=(SUBSCRIPTION),
@@ -845,7 +845,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 	)
     elif query.data == "free":
         buttons = [[
-            InlineKeyboardButton('☆📸 𝙎𝙚𝙣𝙙 𝙨𝙘𝙧𝙚𝙚𝙣𝙨𝙝𝙤𝙩 📸☆', url=f'https://t.me/innocent_babe_dead')
+            InlineKeyboardButton('☆ 𝙎𝙚𝙣𝙙 𝗥𝗲𝗱𝗲𝗲𝗺 ☆', url=f'https://t.me/NeverStopI')
         ],[
             InlineKeyboardButton('💎 𝗖𝘂𝘀𝘁𝗼𝗺 𝗣𝗹𝗮𝗻 💎', callback_data='other')
         ],[
@@ -947,7 +947,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
           chat_id=query.message.chat.id,
           message_id=query.message.id,
           media=InputMediaAnimation(
-            media="https://cdn.jsdelivr.net/gh/Jisshubot/JISSHU_BOTS/Video.mp4/Welcome_video_20240921_184741_0001.gif",
+            media="https://tinyurl.com/2bv8gk6x",
             caption=script.ADMIN_CMD_TXT,
             parse_mode=enums.ParseMode.HTML
           ),
@@ -963,7 +963,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
           chat_id=query.message.chat.id,
           message_id=query.message.id,
           media=InputMediaAnimation(
-            media="https://cdn.jsdelivr.net/gh/Jisshubot/JISSHU_BOTS/Video.mp4/Welcome_video_20240921_184741_0001.gif",
+            media="https://tinyurl.com/2bv8gk6x",
             caption=script.ADMIN_CMD_TXT2,
             parse_mode=enums.ParseMode.HTML
           ),
@@ -1038,7 +1038,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
           chat_id=query.message.chat.id,
           message_id=query.message.id,
           media=InputMediaAnimation(
-            media="https://cdn.jsdelivr.net/gh/Jisshubot/JISSHU_BOTS/Video.mp4/Group_20240921_202540_0001.gif",
+            media="https://tinyurl.com/2bv8gk6x",
             caption=script.GROUP_TEXT.format(temp.B_LINK),
             parse_mode=enums.ParseMode.HTML
         ),
