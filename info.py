@@ -68,11 +68,11 @@ REQUEST_CHANNEL = int(request_channel) if request_channel and id_pattern.search(
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 #---------------------------------------------------------------
-START_IMG = (environ.get('START_IMG', 'https://envs.sh/Sg2.jpg')).split()
-FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://envs.sh/SgF.jpg')
-REFER_PICS = (environ.get("REFER_PICS", "https://envs.sh/SgF.jpg")).split() 
-PAYPICS = (environ.get('PAYPICS', 'https://envs.sh/SgF.jpg')).split()
-SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://envs.sh/Sgu.jpg'))
+START_IMG = (environ.get('START_IMG', 'https://i.imghippo.com/files/raeD5208WQ.jpg')).split()
+FORCESUB_IMG = environ.get('FORCESUB_IMG', 'https://i.imghippo.com/files/wBL5958As.jpg')
+REFER_PICS = (environ.get("REFER_PICS", "https://i.imghippo.com/files/wBL5958As.jpg")).split() 
+PAYPICS = (environ.get('PAYPICS', 'https://i.imghippo.com/files/wBL5958As.jpg')).split()
+SUBSCRIPTION = (environ.get('SUBSCRIPTION', 'https://i.imghippo.com/files/Wf3313AfA.jpg'))
 REACTIONS = ["👀", "😱", "🔥", "😍", "🎉", "🥰", "😇", "⚡", "💯", "🤔", "😏"]
 #---------------------------------------------------------------
 #---------------------------------------------------------------
@@ -90,7 +90,7 @@ IMDB_TEMPLATE = environ.get('IMDB_TEMPLATE', f'{script.IMDB_TEMPLATE_TXT}')
 LONG_IMDB_DESCRIPTION = is_enabled('LONG_IMDB_DESCRIPTION', False)
 PROTECT_CONTENT = is_enabled('PROTECT_CONTENT', False)
 SPELL_CHECK = is_enabled('SPELL_CHECK', True)
-LINK_MODE = is_enabled('LINK_MODE', True)
+LINK_MODE = is_enabled('LINK_MODE', False)
 
 #---------------------------------------------------------------
 #---------------------------------------------------------------
