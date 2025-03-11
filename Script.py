@@ -39,7 +39,7 @@ class script(object):
 <blockquote>🌿 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://t.me/NeverStopI'>𝐎𝐖𝐍𝐄𝐑</a></b></blockquote>"""
     
 
-    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : Learning Never Bots\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/NeverStopI'>𝑀𝑅.𝐾𝐼𝑅𝐴𝑁</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
+    ABOUT_TEXT = """<blockquote><b>‣ ᴍʏ ɴᴀᴍᴇ : Never Bots\n‣ ᴄʀᴇᴀᴛᴏʀ : <a href='https://t.me/NeverStopI'>𝑀𝑅.𝐾𝐼𝑅𝐴𝑁</a>\n‣ ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ\n‣ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ\n‣ ᴅᴀᴛᴀ ʙᴀsᴇ : ᴍᴏɴɢᴏ ᴅʙ\n‣ ʜᴏsᴛᴇᴅ ᴏɴ  : ᴀʟʟ ᴡᴇʙ\n‣ ʙᴜɪʟᴅ sᴛᴀᴛᴜs : ᴠ5.2 [sᴛᴀʙʟᴇ]</b></blockquote>"""    
     
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -257,9 +257,9 @@ User - {}"""
     
 <blockquote>🎖️ᴀᴠᴀɪʟᴀʙʟᴇ ᴘʀᴇᴍɪᴜᴍ ᴘʟᴀɴꜱ :</blockquote>
 
-! Cut this and Type here Your own plane for exl
+𝐅𝐎𝐑 𝐀𝐂𝐂𝐄𝐒𝐒 𝐀𝐋𝐋 𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐒 𝐀𝐍𝐃 𝐍𝐄𝐖 𝐌𝐎𝐕𝐈𝐄𝐒 𝐀𝐍𝐃 𝐒𝐄𝐑𝐈𝐄𝐒 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄 𝐎𝐔𝐑 𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐏𝐓𝐈𝐎𝐍 
 
-1 Month 80 Rupees
+𝐎𝐍𝐋𝐘 𝐉𝐔𝐒𝐓 𝟏𝟎 𝐑𝐔𝐏𝐄𝐄𝐒 𝐌𝐎𝐍𝐓𝐇𝐋𝐘
 
  <code> 𝐎𝐍𝐋𝐘 𝐑𝐄𝐃𝐄𝐄𝐌 𝐂𝐎𝐃𝐄 </code> [ᴛᴀᴘ ᴛᴏ ᴄᴏᴘʏ]
  
